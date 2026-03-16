@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>Naitik Patel</h1>
-  <p><b>AI Solutions Engineer | Full-Stack Developer | M.Sc. Engineering Management</b></p>
-  <p><i>Architecting AI-native systems and autonomous workflows in Berlin.</i></p>
+  <h1>Hi there, I'm Naitik! 👋</h1>
+  <p>🚀 <b>Welcome to my digital space!</b></p>
+  <p><i>AI Solutions Engineer | Full-Stack Developer | M.Sc. Engineering Management</i></p>
+  <p>Architecting AI-native systems and autonomous workflows in Berlin.</p>
 
   <br />
 
@@ -18,7 +19,7 @@
 | **Languages** | Python • TypeScript • JavaScript (ES6+) • HTML5/CSS3 • JQuery |
 | **Frameworks** | React • Node.js • RESTful API Architecture • SEO Optimization |
 | **AI & Automation** | Claude API • LLM Prompt Engineering • AI-Powered Debugging |
-| **Tools & Design** | Docker • Git • Vercel • Netlify • Jira • Agile/Scrum • Figma (UI/UX) |
+| **Tools & Design** | Docker • Git • Vercel • Netlify • Jira • Agile/Scrum • Figma (UI/UX) • Never ending list :) |
 
 ---
 
