@@ -38,8 +38,26 @@
 
 ---
 
-### 📊 System Health
+---
+
+### 📊 System Performance & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01naitik&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01naitik&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=01naitik&theme=tokyonight&no-bg=true&column=7" alt="github trophies" />
+  </a>
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=01naitik&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01naitik&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" height="150" />
+
+  <br />
+
+  <img src="https://raw.githubusercontent.com/01naitik/01naitik/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=01naitik&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="01naitik" />
 </div>
