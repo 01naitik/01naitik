@@ -40,18 +40,29 @@
 
 ---
 
+---
+
 ### 📊 System Performance & Activity
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=01naitik&theme=tokyonight&no-bg=true&column=7" alt="github trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=01naitik&theme=tokyonight&no-bg=true&margin-w=15&column=3&rank=B,A,S,SSS" alt="github trophies" />
   </a>
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=01naitik&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01naitik&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=01naitik&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01naitik&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" height="165" />
 
   <br />
+
+  <img src="https://raw.githubusercontent.com/01naitik/01naitik/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=01naitik&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="profile views" />
+</div>
 
   <img src="https://raw.githubusercontent.com/01naitik/01naitik/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
